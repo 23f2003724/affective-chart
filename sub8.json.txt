@@ -1,0 +1,6 @@
+{
+  "prompt": "A surreal social gathering scene at night. A single person stands in the center of a softly lit space, surrounded by a small circle of people. Each of those surrounding people is, in turn, surrounded by much larger and denser groups of people, forming expanding layers outward. The outer groups appear increasingly crowded and socially connected, while the central person remains relatively isolated. Composition emphasizes imbalance and asymmetry. Soft cinematic lighting, realistic but slightly dreamlike atmosphere, no text, no symbols, no charts, no diagrams. Emotional tone of subtle unease and contradiction. Highly detailed, 4k. Negative prompt: graph, network diagram, nodes, lines, labels, text, numbers, infographic, abstract shapes",
+  "model": "DALL·E 3",
+  "paradox": "Friendship Paradox",
+  "visual_logic": "A central person has fewer connections, while each friend is embedded in denser social clusters, making others appear more connected and creating an unavoidable imbalance."
+}

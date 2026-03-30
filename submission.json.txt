@@ -1,0 +1,7 @@
+{
+  "prompt": "A powerful conceptual visual metaphor showing gender inequality in literacy in India. A large open book placed in the center. The left side pages are fully filled with dark, clear handwritten text, symbolizing male literacy. The right side pages are mostly blank, faded, or dissolving into dust, symbolizing lower female literacy. A young girl is trying to write on the empty pages, but the ink fades as she writes. Soft dramatic lighting, muted colors, emotional, cinematic composition, no text, no labels, no charts, no graphs, highly symbolic, magazine cover style, minimalistic but impactful, high detail, 4k. Negative prompt: bar chart, pie chart, infographic, axis, labels, numbers, graphs, data points",
+  "model": "DALL·E 3",
+  "dataset_name": "Literacy rate, adult female vs male - India",
+  "dataset_url": "https://data.worldbank.org/indicator/SE.ADT.LITR.FE.ZS",
+  "insight": "Female literacy in India is significantly lower than male literacy, showing unequal access to education."
+}

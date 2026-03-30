@@ -1,0 +1,6 @@
+{
+  "prompt": "A realistic classroom scene during an exam. A student sitting at a desk secretly copying answers from a hidden cheat sheet placed under the desk. The student looks confident while copying. On the blackboard, a new unexpected question is written, and the student now looks confused and stuck. Other students are thinking normally. Natural lighting, highly realistic, cinematic, emotional tension, no text, no labels, no diagrams, no symbols, no AI icons, no graphs. Pure real-world scene, photograph style, high detail, 4k. Negative prompt: diagram, chart, graph, labels, text, equations, AI brain, glowing lines, futuristic elements",
+  "model": "DALL·E 3",
+  "concept": "overfitting",
+  "metaphor": "A student memorizes answers from a cheat sheet but fails when questions change, mirroring a model that memorizes training data but cannot generalize."
+}

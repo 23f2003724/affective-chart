@@ -1,0 +1,8 @@
+{
+  "prompt": "A traditional Japanese ukiyo-e woodblock print style scene from the Edo period. A lone traveler in simple robes descending a large mountain along a winding path. The mountain has multiple slopes and curved contours, showing different possible paths downward. The traveler is carefully moving step by step toward a calm valley at the bottom. Use flat areas of muted colors, strong outlines, minimal shading, visible woodblock texture, stylized clouds and waves, asymmetrical composition, indigo and earthy tones. No modern elements, no text, no labels, no diagrams, no graphs. Highly authentic ukiyo-e style, 4k. Negative prompt: realistic photography, 3D render, modern clothes, text, labels, charts, graphs, neon colors",
+  "model": "DALL·E 3",
+  "concept": "gradient descent",
+  "tradition_name": "Japanese Ukiyo-e woodblock prints",
+  "tradition_period": "1603–1868 (Edo period)",
+  "tradition_approach": "Used flat colors, bold outlines, asymmetrical composition, stylized nature, and visible woodblock texture to authentically match ukiyo-e visual grammar."
+}
